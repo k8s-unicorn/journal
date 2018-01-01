@@ -9,5 +9,4 @@
 * [社区](she-qu.md)
 * [参与](martinyunify/can-yu.md)
 * [工程](martinyunify/gong-cheng.md)
-* [项目流程的自动化](martinyunify/xiang-mu-liu-cheng-de-zi-dong-hua.md)
 
